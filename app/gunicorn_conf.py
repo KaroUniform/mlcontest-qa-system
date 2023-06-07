@@ -1,0 +1,9 @@
+loglevel = "info"
+errorlog = "-"  # stderr
+accesslog = "-"  # stdout
+graceful_timeout = 120
+timeout = 120
+keepalive = 5
+threads = 8
+certfile = "/ssl/chat.services.kily.ru.cer"
+keyfile = "/ssl/chat.services.kily.ru.key"
