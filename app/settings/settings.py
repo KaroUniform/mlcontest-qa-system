@@ -1,2 +1,0 @@
-OPEN_AI = "PAST_YOUR_TOKEN_HERE"
-OPEN_AI_MODEL = "text-davinci-003"
